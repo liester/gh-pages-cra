@@ -2,6 +2,7 @@
   "name": "gh-pages-cra",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://liester.github.io/gh-pages-cra/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
